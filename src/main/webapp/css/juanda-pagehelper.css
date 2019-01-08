@@ -1,0 +1,141 @@
+.pagination {
+    text-align: center;
+    color: #333;
+    margin-top: 30px;
+}
+.pagination .pg-item {
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 14px;
+    margin: 0 2px;
+    border: 1px solid #ccc;
+    background: #eee;
+    cursor: pointer;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.pagination .pg-item.disabled {
+    color: #ccc;
+    background: none;
+    cursor: not-allowed;
+}
+
+.pagination .pg-item.pg-placeholder {
+    cursor: auto;
+    border: 1px solid #f6f6f6;
+    background: none;
+    font-weight: 700;
+    color: #aaa
+}
+
+.pagination .pg-total {
+    background: none;
+    cursor: auto;
+    margin-left: 10px
+}
+
+.pagination .pg-item.curr {
+    cursor: auto;
+    border: 1px solid #f6f6f6;
+    background: none
+}
+
+
+/*2*/
+.pagination2 {
+    text-align: center;
+    color: #333;
+    margin-top: 30px;
+}
+.pagination2 .pg-item {
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 14px;
+    margin: 0 2px;
+    border: 1px solid #ccc;
+    background: #eee;
+    cursor: pointer;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.pagination2 .pg-item.disabled {
+    color: #ccc;
+    background: none;
+    cursor: not-allowed;
+}
+
+.pagination2 .pg-item.pg-placeholder {
+    cursor: auto;
+    border: 1px solid #f6f6f6;
+    background: none;
+    font-weight: 700;
+    color: #aaa
+}
+
+.pagination2 .pg-total {
+    background: none;
+    cursor: auto;
+    margin-left: 10px
+}
+
+.pagination2 .pg-item.curr {
+    cursor: auto;
+    border: 1px solid #f6f6f6;
+    background: none
+}
+
+
+/*2*/
+.pagination2 {
+    text-align: center;
+    color: #333;
+    margin-top: 30px;
+}
+.pagination2 .pg-item {
+    display: inline-block;
+    height: 36px;
+    line-height: 36px;
+    padding: 0 14px;
+    margin: 0 2px;
+    border: 1px solid #ccc;
+    background: #eee;
+    cursor: pointer;
+    -moz-user-select: none;
+    -webkit-user-select: none;
+    -ms-user-select: none;
+    user-select: none
+}
+
+.pagination2 .pg-item.disabled {
+    color: #ccc;
+    background: none;
+    cursor: not-allowed;
+}
+
+.pagination2 .pg-item.pg-placeholder {
+    cursor: auto;
+    border: 1px solid #f6f6f6;
+    background: none;
+    font-weight: 700;
+    color: #aaa
+}
+
+.pagination2 .pg-total {
+    background: none;
+    cursor: auto;
+    margin-left: 10px
+}
+
+.pagination2 .pg-item.curr {
+    cursor: auto;
+    border: 1px solid #f6f6f6;
+    background: none
+}
